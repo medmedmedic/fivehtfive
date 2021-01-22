@@ -1,6 +1,6 @@
 # fivehtfive
 
-A new app trying to implement a spaced repetition app from scrach, all in bloc pattern. 
+A new app, Trying to implement a spaced repetition app using bloc pattern. 
 
 ## Getting Started
 
